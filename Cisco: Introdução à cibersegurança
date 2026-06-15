@@ -6,4 +6,4 @@ Utilizei o programa Nmap (download: https://nmap.org/download#windows) para a ve
 Esquema das portas: 
 Abertas - Acessíveis 
 Fechadas - Inacessíveis
-Bloqueado = Fechado por um firewall
+Bloqueado - Fechado por um firewall
