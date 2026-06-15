@@ -1,1 +1,9 @@
-teste
+Utilizei o programa Nmap (download: https://nmap.org/download#windows) para a verredura de porta pelo IP interno e externo. 
+
+# Encontrando o IP interno: Win + R, comando ipconfig no cmd e buscar por endereço IPv4
+# Encontrando o IP externo: no site meuip.com
+
+Esquema das portas: 
+Abertas - Acessíveis 
+Fechadas - Inacessíveis
+Bloqueado = Fechado por um firewall
